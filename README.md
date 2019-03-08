@@ -1,3 +1,9 @@
-# fund
+# [Morejust.foundation](https://morejust.foundation/)
 
-Receive funding for your open-source projects.
+We consult, research, prototype and develop. 
+
+## Morejust Brand colors
+
+* Orange: #F4BE67
+* Purple: #7D2B83
+
