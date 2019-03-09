@@ -1,0 +1,9 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+/* Colors */
+@orange         : #F4BE67;
+@purple         : #7D2B83;
+@primaryColor   : @orange;
+@secondaryColor : @purple;
