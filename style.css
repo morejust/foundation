@@ -16,7 +16,7 @@
   margin-top: 2em;
   margin-bottom: 0em;
   font-size: 6em;
-  font-weight: normal;
+  font-weight: bold;
 }
 .masthead h2 {
   font-size: 1.7em;
@@ -27,7 +27,7 @@
   padding: 8em 0em;
 }
 .ui.vertical.stripe h3 {
-  font-size: 2em;
+  font-size: 2.5em;
 }
 .ui.vertical.stripe .button + h3,
 .ui.vertical.stripe p + h3 {
@@ -47,8 +47,9 @@
   padding: 0em;
 }
 .quote.stripe.segment .grid .column {
-  padding-top: 5em;
-  padding-bottom: 5em;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  color: black;
 }
 
 .footer.segment {
@@ -57,6 +58,11 @@
 
 .secondary.pointing.menu .toc.item {
   display: none;
+}
+
+
+.hoverme:hover {
+  background-color: #F4BE67;
 }
 
 @media only screen and (max-width: 700px) {
@@ -81,4 +87,13 @@
     margin-top: 0.5em;
     font-size: 1.5em;
   }
+
+  .ui.vertical.stripe h3 {
+    font-size: 2em;
+  }
+
+  .hoverme:hover {
+    background-color: white;
+  }
+
 }
