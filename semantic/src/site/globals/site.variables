@@ -7,3 +7,6 @@
 @purple         : #7D2B83;
 @primaryColor   : @orange;
 @secondaryColor : @purple;
+
+@yellow         : @orange;
+@blue           : @purple;
