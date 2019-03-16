@@ -65,6 +65,10 @@
   background-color: #F4BE67;
 }
 
+.ui.form input.orange:focus {
+  border-color: #F4BE67;
+}
+
 @media only screen and (max-width: 700px) {
   .ui.fixed.menu {
     display: none !important;
